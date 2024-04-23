@@ -1,0 +1,122 @@
+html topics 
+basics if internet
+hashnode-blog
+ui-ux
+git &github
+
+HTML
+---------
+Layout
+Headings,paragraph
+a and img
+list
+tables
+semantic
+block vs inline
+forms
+vaidation
+media
+
+
+freecodecamp can learn html for free
+
+
+
+HTML 5
+--------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+what is HTML?
+HTML Means Hyper text markup language.HTML is used to 
+developSkeleton/Structure of the page html uses tags for developing 
+HTML started from GML+>SGML=>HTML .started in 1992 .current version is HTML%
+HTML tags will have open or vlose 
+<tagname>---open tag 
+</tagname>---close tag
+whole html code will be between html .
+create a sample website html code to display your name.
+write a basic html course to display your information using six heading 
+h1 name h2 profession h3 skills h4 education h5 hobbies h6 contact 
+indentation
+
+
+day 2 
+
+
+formet text 
+B is used to make the text bold 
+
+
+Strong also used for to make text bold 
+but better SEO .
+
+i . is used to make text italic 
+
+em is used to  make italic but better SEO 
+u > used to make text get underline 
+
+ins > used to make text get underline but it means 
+
+
+projects :=
+*profile 
+*www
+ *wc3
+
+to do work freecodecamp
+it will give tasks 
+
+06-04-2024
+
+Lists : these are used to list of certain items
+    /HTML contains threee types of lists 
+    1 ordered list :list of items where order is important 
+ex  1rohit
+    2 raj
+    3 sheakar
+
+    2.unordered list : list of items where items are not important
+ex: 1.skills are > skill1
+                 >skill2 ....
+    3. description list:
+ Lists of events or items mentioned with reference 
+ex: A company growth 1995 to 2000
+companyt established at  2001=2010 
+company went well
+2011-2023
+company got success 2024
+company bankrupt 
+
+
+ Tables : Tables are used to represent data in a simpler format
+ .tables deals with rows (horizontal ) 
+
+
+ 
